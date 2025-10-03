@@ -52,18 +52,18 @@
 
 ## 📊 GitHub Stats  
 
-![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandra56ashu&show_icons=true&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandra56ashu&layout=compact&theme=tokyonight)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chandra56ashu&theme=tokyonight)  
 
 ---
 
 ## 📫 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ashutoshchandra8)  
 - ✉️ Email: **chandra56ashu@gmail.com**  
-- 🖥️ [GitHub](https://github.com/yourusername)  
+- 🖥️ [GitHub](https://github.com/chandra56ashu)  
 
 ---
 
