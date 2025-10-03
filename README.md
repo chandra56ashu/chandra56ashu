@@ -1,38 +1,70 @@
-## Hey<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I am Ashutosh!  <p align="right"> <img src="https://komarev.com/ghpvc/?username=chandra56ashu&color=brightgreen" alt="Chandra56ashu"/> </p>
+# 👋 Hi, I'm Ashutosh Chandra  
 
-<div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/64009514/102066398-c847f780-3e1f-11eb-8cb8-b9e5be919da2.gif" width="350"/>
-  <p>                            Welcome to my GitHub profile! </p>
- <p>   
-   I am a dedicated Data Analyst with expertise in Python, SQL, MS Excel, and Tableau. With a passion for uncovering insights and making data-driven decisions, I thrive in transforming complex data sets into actionable information.
-  </p>
-</div>
+🎓 MSc Business Data Analytics Student @ Cranfield University (UK)  
+💼 Former Data Analyst @ Demandbase | 2.5+ years of experience  
+💡 Passionate about turning data into actionable insights using Python, SQL, and Tableau  
 
+---
 
+## 🚀 About Me  
+- 📊 Data Analyst with hands-on experience in **data visualization, automation, and analytics pipelines**  
+- ⚡ Skilled in building **interactive dashboards** and streamlining **reporting processes** (saved 2–3 days of manual effort via automation)  
+- 🔍 Interested in **Business Intelligence, Predictive Analytics, and Data-driven Strategy**  
+- 🌱 Currently enhancing expertise in **Business Analytics, Advanced Statistics, and Cloud Analytics (AWS)**  
+- ✨ Always exploring new tools & techniques to convert raw data into meaningful stories  
 
+---
 
+## 🛠️ Tech Stack  
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Still Learning</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://camo.githubusercontent.com/ad7293939c16e73991b8d60763373b710bf9e96923595e8dd90fb7dee464e9ce/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2d776f72646d61726b2e737667" alt="php" width="45" height="45"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="45" height="45"/>
-<img src="https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png" alt="php" width="45" height="45"/>
-<img src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png" alt="MSexcel" width="45" height="45"/>
-<img align="left" alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img align="left" alt="aws" width=50px src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" />
+**Languages & Tools:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
 
+**Core Skills:**  
+- Data Cleaning & Preprocessing  
+- Statistical Analysis  
+- Data Visualization & Dashboarding  
+- Business Intelligence Solutions  
+- Automation with Python  
 
-</p>
+---
 
-### Connect with me:
+## 📌 Featured Projects  
 
-</a>
-<a href="https://www.linkedin.com/in/ashutosh--chandra/">
-  <img  align="left" alt="Ashutosh's LinkedIN" width="50px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
+🌍 **Sentiment Analysis on Climate Change Tweets**  
+*Built a classification model using Naive Bayes to detect stance on climate change.*  
+🔗 [View Project](#)  
 
-<br/>
+📈 **Student Score Predictor**  
+*Predicted students’ performance using Linear Regression based on study hours.*  
+🔗 [View Project](#)  
 
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
+📊 **Tableau Dashboards for Client Insights**  
+*Designed multiple interactive dashboards to track key metrics for marketing clients.*  
+🔗 [View Project](#)  
+
+---
+
+## 📊 GitHub Stats  
+
+![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)  
+
+---
+
+## 📫 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ashutosh--chandra)  
+- ✉️ Email: **chandra56ashu@gmail.com**  
+- 🖥️ [GitHub](https://github.com/yourusername)  
+
+---
+
+⭐ *“Data is the new oil, but only if refined with the right analytics.”*  
