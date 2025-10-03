@@ -38,15 +38,15 @@
 
 🌍 **Sentiment Analysis on Climate Change Tweets**  
 *Built a classification model using Naive Bayes to detect stance on climate change.*  
-🔗 [View Project](#)  
+🔗 [View Project](https://github.com/chandra56ashu/Sentimental-Analysis)  
 
 📈 **Student Score Predictor**  
 *Predicted students’ performance using Linear Regression based on study hours.*  
-🔗 [View Project](#)  
+🔗 [View Project](https://github.com/chandra56ashu/The-sparks-foundation-internship-Ashutosh-Chandra)  
 
 📊 **Tableau Dashboards for Client Insights**  
 *Designed multiple interactive dashboards to track key metrics for marketing clients.*  
-🔗 [View Project](#)  
+
 
 ---
 
@@ -61,7 +61,7 @@
 ---
 
 ## 📫 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ashutosh--chandra)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ashutoshchandra8)  
 - ✉️ Email: **chandra56ashu@gmail.com**  
 - 🖥️ [GitHub](https://github.com/yourusername)  
 
