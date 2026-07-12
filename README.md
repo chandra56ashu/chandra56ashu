@@ -1,60 +1,50 @@
-# 👋 Hi, I'm Ashutosh Chandra  
+# Hi, I'm Ashutosh Chandra 👋
 
-🎓 MSc Business Data Analytics Student @ Cranfield University (UK)  
-💼 Former Data Analyst @ Demandbase | 2.5+ years of experience  
-💡 Passionate about turning data into actionable insights using Python, SQL, and Tableau  
+**Data Analyst | Supply Chain Analytics | MSc Business Data Analytics at Cranfield University**
 
----
+I am a UK-based analytics professional with approximately three years of experience delivering data automation, quality-control workflows, dashboards and stakeholder-ready insights. I previously worked at Demandbase and am now completing an MSc in Business Data Analytics at Cranfield University.
 
-## 🚀 About Me  
-- 📊 Data Analyst with hands-on experience in **data visualization, automation, and analytics pipelines**  
-- ⚡ Skilled in building **interactive dashboards** and streamlining **reporting processes** (saved 2–3 days of manual effort via automation)  
-- 🔍 Interested in **Business Intelligence, Predictive Analytics, and Data-driven Strategy**  
-- 🌱 Currently enhancing expertise in **Business Analytics, Advanced Statistics, and Cloud Analytics (AWS)**  
-- ✨ Always exploring new tools & techniques to convert raw data into meaningful stories  
+My current MSc research with **A.P. Moller–Maersk** explores supply-chain complexity, analytics capability and LLM-enabled decision support.
 
----
+## What I work with
 
-## 🛠️ Tech Stack  
+- **Analysis:** Python, SQL, pandas, NumPy, statistical analysis and predictive modelling
+- **Visualisation:** Tableau, Excel, Matplotlib and Seaborn
+- **Machine learning:** scikit-learn, regression, classification, clustering and model interpretation
+- **Delivery:** Git/GitHub, AWS, JIRA, Confluence and stakeholder communication
+- **Business focus:** process improvement, KPI reporting, supply-chain analytics and decision support
 
-**Languages & Tools:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
+## Featured projects
 
-**Core Skills:**  
-- Data Cleaning & Preprocessing  
-- Statistical Analysis  
-- Data Visualization & Dashboarding  
-- Business Intelligence Solutions  
-- Automation with Python  
+### [Dynamic Hotel Pricing](https://github.com/chandra56ashu/hotelpricing)
+Competitor-pricing analysis combining regression, hotel segmentation and a Flask pricing application.
 
----
+### [Bank Term Deposit Subscription](https://github.com/chandra56ashu/Bank-Term-Subscription)
+Classification project comparing Logistic Regression and Random Forest models on an imbalanced bank-marketing dataset.
 
-## 📌 Featured Projects  
+### [Flipkart Customer Service Analytics](https://github.com/chandra56ashu/Flipkart_Data_Analysis)
+Excel-based customer-service analysis identifying drivers of CSAT and retention-focused recommendations.
 
-🌍 **Sentiment Analysis on Climate Change Tweets**  
-*Built a classification model using Naive Bayes to detect stance on climate change.*  
-🔗 [View Project](https://github.com/chandra56ashu/Sentimental-Analysis)  
+### [Coffee Sales Analysis](https://github.com/chandra56ashu/Coffee-Sales-Data-EDA-in-Excel)
+Exploratory sales analysis translating product and time patterns into staffing, inventory and promotion recommendations.
 
-📈 **Student Score Predictor**  
-*Predicted students’ performance using Linear Regression based on study hours.*  
-🔗 [View Project](https://github.com/chandra56ashu/The-sparks-foundation-internship-Ashutosh-Chandra)  
+### [Cirrhosis Outcome Prediction](https://github.com/chandra56ashu/cirrhosis_app)
+Multiclass XGBoost model deployed through an interactive Streamlit dashboard for academic demonstration.
 
-📊 **Tableau Dashboards for Client Insights**  
-*Designed multiple interactive dashboards to track key metrics for marketing clients.*  
+### [Tennis Match Winner Prediction](https://github.com/chandra56ashu/Tennis_model_repo)
+Streamlit sports-analytics application using player indicators and match context to estimate win probabilities.
 
+## Portfolio
 
----
+🌐 **[View my analytics portfolio](https://chandra56ashu.github.io)**
 
-## 📫 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ashutoshchandra8)  
-- ✉️ Email: **chandra56ashu@gmail.com**  
-- 🖥️ [GitHub](https://github.com/chandra56ashu)  
+## Education
 
----
+- **MSc Business Data Analytics**, Cranfield University, UK — Dean's Scholarship (£10,000)
+- **BSc (Hons) Statistics**, Kirori Mal College, University of Delhi
 
-⭐ *“Data is the new oil, but only if refined with the right analytics.”*  
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/ashutoshchandra8)
+- [Portfolio](https://chandra56ashu.github.io)
+- Email: `chandra56ashu@gmail.com`
