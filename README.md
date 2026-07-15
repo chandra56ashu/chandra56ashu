@@ -2,7 +2,6 @@
 
 <p align="center">
   <strong>Data Analyst | Supply Chain Analytics</strong><br>
-  MSc Business Data Analytics candidate at Cranfield University, UK
 </p>
 
 <p align="center">
