@@ -75,7 +75,7 @@ Natural-language processing project using Naive Bayes models, text preprocessing
 
 **MSc thesis: Supply chain complexity, analytics capability and LLM-enabled decision support**
 
-The research investigates how supply-chain complexity affects decision-making in a global logistics environment and explores how analytics and large language models could support more structured decisions. Only non-confidential and approved information is shared publicly.
+The research investigates how supply-chain complexity affects decision-making in a global logistics environment and explores how analytics and large language models could support more structured decisions.
 
 ## Education
 
