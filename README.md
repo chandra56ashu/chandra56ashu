@@ -20,8 +20,7 @@ I am currently completing an **MSc in Business Data Analytics at Cranfield Unive
 
 I am particularly interested in UK opportunities across:
 
-- Data Analyst and Business Data Analyst
-- BI and Reporting Analyst
+- Data Analyst
 - Supply Chain Analyst and Supply Chain Data Analyst
 
 ## Professional impact
