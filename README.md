@@ -78,7 +78,7 @@ The research investigates how supply-chain complexity affects decision-making in
 
 ## Education
 
-- **MSc Business Data Analytics**, Cranfield University, UK — expected 2026
+- **MSc Business Data Analytics**, Cranfield University, UK — expected September 2026
   - £10,000 Dean's Scholarship
   - Industry thesis with A.P. Moller–Maersk
 - **BSc (Hons) Statistics**, Kirori Mal College, University of Delhi
