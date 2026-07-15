@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ashutosh Chandra 👋</h1>
 
 <p align="center">
-  <strong>Data Analyst | Business Analytics | Supply Chain Analytics</strong><br>
+  <strong>Data Analyst | Supply Chain Analytics</strong><br>
   MSc Business Data Analytics candidate at Cranfield University, UK
 </p>
 
